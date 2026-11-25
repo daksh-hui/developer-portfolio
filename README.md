@@ -1,30 +1,32 @@
-# Daksh Upadhyay — Developer Portfolio
+# Developer Portfolio
 
-> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
+## Beginner Developer Ecosystem Portfolio
 
----
+This project demonstrates the technical skills I learned during my semester.
 
-## Repository Index
+## Project Sections
 
-| Repository | Description | Tech Stack | Status |
-|------------|-------------|------------|--------|
-| [cse103-lab-LAB3](https://github.com/daksh-hui/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
-| [developer-portfolio](https://github.com/daksh-hui/developer-portfolio) | This portfolio index | Markdown | Active |
+### Q1 - Linux Commands
+Linux commands and system documentation.
 
----
+### Q2 - Shell Scripts
+Bash automation scripts.
 
-## Current Skills
+### Q3 - API Interaction
+Python API requests and JSON response.
 
-Python [█████░░░░░] 50%
-Linux / Bash [████░░░░░░] 40%
-Git / GitHub [█████░░░░░] 50%
+### Q4 - Professional Portfolio
+Professional resume and learning roadmap.
 
----
+## Technologies Used
+- Git and GitHub
+- Git Bash
+- Bash Scripting
+- Python
+- Markdown
+- JSON
 
-## Learning Roadmap
+## Author
+Daksh
 
-See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
-
-## Progress Tracker
-
-See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
+GitHub: https://github.com/daksh-hui
