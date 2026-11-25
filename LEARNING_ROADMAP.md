@@ -2,8 +2,7 @@
 
 **Student Name:** [Daksh upadhyay]
 
-**Degree:** B.Tech Computer Science & Engineering (2024–2028)  
-**Primary Specialisation:** Track A — Software / Full-Stack Development  
+**Degree:** B.Tech Computer Science & Engineering(2026-2030)
 **Faculty / Senior Mentor:** Dr. Neha Sharma (Faculty Mentor)  
 
 ---
