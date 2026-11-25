@@ -1,6 +1,7 @@
 # K.R. MANGALAM UNIVERSITY | B.Tech CSE | PERSONALIZED LEARNING ROADMAP
 
-**Student Name:** [Your Full Name]  
+**Student Name:** [Daksh upadhyay]
+
 **Degree:** B.Tech Computer Science & Engineering (2024–2028)  
 **Primary Specialisation:** Track A — Software / Full-Stack Development  
 **Faculty / Senior Mentor:** Dr. Neha Sharma (Faculty Mentor)  
@@ -15,8 +16,7 @@
 | **Linux / Bash** | 2 — Beginner |
 | **Git / GitHub** | 2 — Beginner |
 | **Data Structures & Algorithms (DSA)** | 1 — No Knowledge |
-| **Databases** | 1 — No Knowledge |
-| **Web Development** | 1 — No Knowledge |
+| **Databases** | 1 — No Knowledge || **Web Development** | 1 — No Knowledge |
 
 ---
 
